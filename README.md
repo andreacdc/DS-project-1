@@ -1,20 +1,17 @@
-# DS-project-1
+# airbnb_price_analysis_and_prediction.ipynb
 
-## 📌 Overview
-This project explores a dataset using Python and basic data science techniques.
+Exploratory analysis of Airbnb listing prices and a simple machine learning model to predict nightly prices using Random Forest.
 
-## 🧰 Tools Used
-- Python  
-- Jupyter Notebook  
-- pandas  
-- matplotlib  
+🧰 Tools Used
+-Python, Jupyter Notebook
+-pandas, matplotlib
+-scikit-learn
 
-## 🔍 What I Did
-- Loaded and cleaned the dataset  
-- Explored key patterns and trends  
-- Created simple visualisations  
+🔍 What I Did
+-Cleaned and explored Airbnb listing data
+-Built and evaluated a Random Forest regression model for price prediction
 
-## 💡 What I Learned
-- How to work with real-world messy data  
-- Basic exploratory data analysis  
-- How to present findings clearly
+💡 What I Learned
+Working with messy real-world data
+-Building and evaluating regression models
+-Communicating insights clearly
